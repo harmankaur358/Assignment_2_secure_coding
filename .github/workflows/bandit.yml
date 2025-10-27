@@ -1,3 +1,4 @@
+#bandit.yml
 name: Bandit Security Scan
 
 on:
